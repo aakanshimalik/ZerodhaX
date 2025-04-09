@@ -8,7 +8,7 @@ A full-stack clone of Zerodha - India's largest stock trading platform. This pro
 - **Backend(API Server): **
    https://zerodhaclone-ofq0.onrender.com
 
--**Dashboard (Admin Panel): **
+- **Dashboard (Admin Panel): **
   https://zerodhaclone-2-7eac.onrender.com
 
 ---
