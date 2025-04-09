@@ -3,7 +3,8 @@
     "axios": "^1.8.4",
     "react-cookie": "^8.0.1",
     "react-router-dom": "^7.4.1",
-    "react-toastify": "^11.0.5"
+    "react-toastify": "^11.0.5",
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
