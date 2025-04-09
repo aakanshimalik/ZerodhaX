@@ -22,7 +22,7 @@ const Home = () => {
       }
       try{
       const { data } = await axios.post(
-        "http://localhost:3002",
+        "https://zerodhaclone-ofq0.onrender.com",
         {},
         { withCredentials: true }
       );
@@ -33,7 +33,7 @@ const Home = () => {
       //       position: "top-right",
       //     })
       if(status){
-        window.location.href = `http://localhost:3001?username=${user}`;
+        window.location.href = `https://zerodhaclone-2-7eac.onrender.com?username=${user}`;
       }else{
         removeCookie("token");
         navigate("/login");
@@ -67,7 +67,7 @@ const Home = () => {
         borderRadius:"4px",
         cursor:"pointer"
        }}>LOGOUT</button>   
-        <iframe src="http://localhost:3001" title="Dashboard" style={{
+        <iframe src="https://zerodhaclone-2-7eac.onrender.com" title="Dashboard" style={{
           width: '100%',
           height: '100%',
           border: 'none',
