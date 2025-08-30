@@ -2,13 +2,13 @@
 A full-stack clone of Zerodha - India's largest stock trading platform. This project replicates the core frontend interface and includes a backend setup with user autehntication and a functional dashboard.
 ---
 ## Live Links
-- **Frontend(Client App): **
+- **Frontend(Client App):**
   https://zerodhaclone-frontend-3q4m.onrender.com
 
-- **Backend(API Server): **
+- **Backend(API Server):**
    https://zerodhaclone-ofq0.onrender.com
 
-- **Dashboard (Admin Panel): **
+- **Dashboard (Admin Panel):**
   https://zerodhaclone-2-7eac.onrender.com
 
 ---
