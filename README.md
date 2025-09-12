@@ -1,4 +1,4 @@
-  # Zerodha Clone – Full Stack Project
+  # Zerodha  – Full Stack Project
 
 A full-stack clone of Zerodha - India's largest stock trading platform. This project replicates the core frontend interface and includes a backend setup with user autehntication and a functional dashboard.
 
